@@ -1,0 +1,182 @@
+[
+  {
+    "id": "P-2024-001",
+    "name": "Polavaram Irrigation Project",
+    "state": "Andhra Pradesh",
+    "status": "Under Construction",
+    "budget": "₹55,548 Cr",
+    "completion": "75%",
+    "description": "Major irrigation project on Godavari River"
+  },
+  {
+    "id": "P-2024-002",
+    "name": "Sardar Sarovar Dam Rehabilitation",
+    "state": "Gujarat",
+    "status": "Ongoing",
+    "budget": "₹12,450 Cr",
+    "completion": "60%",
+    "description": "Dam rehabilitation and modernization project"
+  },
+  {
+    "id": "P-2023-045",
+    "name": "Ken-Betwa Link Project",
+    "state": "MP/UP",
+    "status": "Planning",
+    "budget": "₹44,605 Cr",
+    "completion": "15%",
+    "description": "River interlinking project between Ken and Betwa"
+  },
+  {
+    "id": "P-2024-003",
+    "name": "Gosikhurd Irrigation Project",
+    "state": "Maharashtra",
+    "status": "Under Construction",
+    "budget": "₹8,560 Cr",
+    "completion": "82%",
+    "description": "Multi-purpose irrigation project"
+  },
+  {
+    "id": "P-2023-078",
+    "name": "Teesta Barrage Project",
+    "state": "West Bengal",
+    "status": "Completed",
+    "budget": "₹6,200 Cr",
+    "completion": "100%",
+    "description": "Barrage for irrigation and flood control"
+  },
+  {
+    "id": "P-2024-012",
+    "name": "Damanganga-Pinjal Link",
+    "state": "Gujarat/Maharashtra",
+    "status": "Under Construction",
+    "budget": "₹18,940 Cr",
+    "completion": "45%",
+    "description": "Inter-state water transfer project"
+  },
+  {
+    "id": "P-2024-008",
+    "name": "Lower Subansiri HE Project",
+    "state": "Arunachal Pradesh",
+    "status": "Ongoing",
+    "budget": "₹24,800 Cr",
+    "completion": "68%",
+    "description": "Hydroelectric power generation project"
+  },
+  {
+    "id": "P-2023-091",
+    "name": "Shahpur Kandi Dam Project",
+    "state": "Punjab/J&K",
+    "status": "Under Construction",
+    "budget": "₹2,380 Cr",
+    "completion": "55%",
+    "description": "Dam project for irrigation and power"
+  },
+  {
+    "id": "P-2024-015",
+    "name": "Narmada Canal Network",
+    "state": "Gujarat",
+    "status": "Ongoing",
+    "budget": "₹15,200 Cr",
+    "completion": "70%",
+    "description": "Extensive canal network for irrigation"
+  },
+  {
+    "id": "P-2023-056",
+    "name": "Kaleshwaram Lift Irrigation",
+    "state": "Telangana",
+    "status": "Completed",
+    "budget": "₹80,500 Cr",
+    "completion": "100%",
+    "description": "World's largest lift irrigation project"
+  },
+  {
+    "id": "P-2024-021",
+    "name": "Parbati Hydroelectric Project",
+    "state": "Himachal Pradesh",
+    "status": "Planning",
+    "budget": "₹7,965 Cr",
+    "completion": "10%",
+    "description": "Run-of-river hydroelectric project"
+  },
+  {
+    "id": "P-2024-033",
+    "name": "Dibang Multipurpose Project",
+    "state": "Arunachal Pradesh",
+    "status": "Planning",
+    "budget": "₹28,080 Cr",
+    "completion": "5%",
+    "description": "Large scale multipurpose dam project"
+  },
+  {
+    "id": "P-2023-088",
+    "name": "Upper Bhadra Project",
+    "state": "Karnataka",
+    "status": "Under Construction",
+    "budget": "₹4,320 Cr",
+    "completion": "65%",
+    "description": "Irrigation and drinking water project"
+  },
+  {
+    "id": "P-2024-044",
+    "name": "Jal Jeevan Mission - Phase 2",
+    "state": "Uttar Pradesh",
+    "status": "Ongoing",
+    "budget": "₹21,500 Cr",
+    "completion": "42%",
+    "description": "Piped water supply to rural households"
+  },
+  {
+    "id": "P-2023-067",
+    "name": "Renukaji Dam Project",
+    "state": "Himachal Pradesh",
+    "status": "Under Construction",
+    "budget": "₹6,800 Cr",
+    "completion": "38%",
+    "description": "Storage dam on Giri River"
+  },
+  {
+    "id": "P-2024-052",
+    "name": "Mahanadi Reservoir Project",
+    "state": "Odisha",
+    "status": "Planning",
+    "budget": "₹9,450 Cr",
+    "completion": "8%",
+    "description": "Major reservoir for irrigation and power"
+  },
+  {
+    "id": "P-2023-099",
+    "name": "Cauvery Delta Modernization",
+    "state": "Tamil Nadu",
+    "status": "Ongoing",
+    "budget": "₹3,890 Cr",
+    "completion": "55%",
+    "description": "Modernization of canal systems"
+  },
+  {
+    "id": "P-2024-061",
+    "name": "Gandak Barrage Rehabilitation",
+    "state": "Bihar",
+    "status": "Under Construction",
+    "budget": "₹2,750 Cr",
+    "completion": "48%",
+    "description": "Rehabilitation of existing barrage"
+  },
+  {
+    "id": "P-2024-073",
+    "name": "Brahmaputra Flood Management",
+    "state": "Assam",
+    "status": "Ongoing",
+    "budget": "₹11,200 Cr",
+    "completion": "35%",
+    "description": "Comprehensive flood management system"
+  },
+  {
+    "id": "P-2023-084",
+    "name": "Chambal Valley Project Phase 3",
+    "state": "Rajasthan",
+    "status": "Completed",
+    "budget": "₹5,600 Cr",
+    "completion": "100%",
+    "description": "Extension of Chambal irrigation network"
+  }
+]
